@@ -14,7 +14,7 @@ Exercice d'initiation a Python tiré du livre "Découvrir la programation avec P
 
 Executez le fichier sur votre IDLE python ou sur le Debug de votre IDE
 
-![](https://raw.githubusercontent.com/DeceulaerAdrien/Turlututu/main/Assets/Capture.PNG)
+![](https://raw.githubusercontent.com/DeceulaerAdrien/Minikea/master/assets/Capture_Demo_1.png)
 
 ## Auteurs
 
